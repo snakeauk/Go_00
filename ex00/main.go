@@ -1,10 +1,7 @@
 package main
 
-import "fmt"
+import "piscine"
 
-func main() {
-	for i := 'a'; i <= 'z'; i++ {
-        fmt.Printf("%c", i)
-    }
-	fmt.Printf("\n")
+func main(){
+	piscine.PrintAlphabet();
 }
