@@ -1,7 +1,7 @@
-package	main
+package main
 
-import	"piscine"
+import "piscine"
 
-func main(){
-	piscine.PrintreversAlphabet();
+func main() {
+	piscine.PrintReversAlphabet()
 }
